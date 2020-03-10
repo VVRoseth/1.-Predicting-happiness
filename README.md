@@ -14,7 +14,7 @@ The data was produced by the World Bank group under the STEP Skills Measurement 
 
 This repository contains the following files 
 
-- Original STEP Dataset from Colombia 
+- STEP Colombia_Working: Original STEP Dataset from Colombia in .xlxs format
 - Notebook 1 - First wave clean: first exploration of available datasets 
 - Notebook 2 - Feature selection and EDA: Walk through all variables, identification of connections between variables and selection of 90 variables. 
 - Notebook 3 - LogReg14Feature: Implementation of a multinomial logistical regression with a subset of 14 variables 
