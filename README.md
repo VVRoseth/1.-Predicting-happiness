@@ -10,7 +10,7 @@ This project seeks to predict individual happiness using features classified und
 6. Personal characteristics
 7. Family 
 
-The data was produced by the World Bank group under the STEP Skills Measurement Program. This program has been implemented in 15 countries and part of it focuses on gathering data from individuals through household surveys. The dataset has more than 1,000 variables that cover a wide range of aspects of respondents' lives (from assets to reading and writting comprehension, from job stability to socio-economic status during formative years). 
+The data was produced by the World Bank group under the STEP Skills Measurement Program. This program has been implemented in 15 countries and part of it focuses on gathering data from individuals through household surveys. The dataset has 1,162 features that cover a wide range of aspects of respondents' lives (from assets to reading and writting comprehension, from job stability to socio-economic status during formative years). 
 
 This repository contains the following files 
 
